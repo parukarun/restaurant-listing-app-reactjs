@@ -1,0 +1,14 @@
+.headtext{
+    transition: 0.5s;
+}
+.headtext:hover{
+  transform: scale(1.25);
+  transition: 0.5s;
+}
+.navs{
+    transition: 0.9s;
+}
+.navs:hover{
+  transform: scale(1.25);
+  transition: 0.5s;
+}
